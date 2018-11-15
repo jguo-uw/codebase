@@ -1,3 +1,5 @@
+# This line is too long.  It will flake out flake8. oooooooooooooooooooooooooooo
+
 def predict(row, weights):
     """
     Super simple one layer perceptron based on this example:
